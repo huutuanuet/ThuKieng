@@ -1,0 +1,11 @@
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\bin\Debug\netcoreapp2.0\tryHard.deps.json
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\bin\Debug\netcoreapp2.0\tryHard.runtimeconfig.json
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\bin\Debug\netcoreapp2.0\tryHard.runtimeconfig.dev.json
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\bin\Debug\netcoreapp2.0\tryHard.dll
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\bin\Debug\netcoreapp2.0\tryHard.pdb
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\obj\Debug\netcoreapp2.0\tryHard.csprojResolveAssemblyReference.cache
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\obj\Debug\netcoreapp2.0\tryHard.csproj.CoreCompileInputs.cache
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\obj\Debug\netcoreapp2.0\tryHard.AssemblyInfoInputs.cache
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\obj\Debug\netcoreapp2.0\tryHard.AssemblyInfo.cs
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\obj\Debug\netcoreapp2.0\tryHard.dll
+D:\MON HOC\năm 4 kỳ 1\các vấn đề hiện đại\PROJECTS\tryHard\tryHard\obj\Debug\netcoreapp2.0\tryHard.pdb
